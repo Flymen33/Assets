@@ -1,0 +1,14 @@
+{
+  "api_versions": {
+    "v1": {
+      "url": "_v1/asset-index.json",
+      "hash": "SHA256:8b6e42a9dff50912705e52baf21ee32271277c04cf14dfd0a8710a2f26f520de"
+    }
+  },
+  "name": "RAL Classic",
+  "contact": {
+    "name": "Павел Красилов",
+    "url": "",
+    "email": "pavelkrasilov@yandex.ru"
+  }
+}

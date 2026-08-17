@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0.0",
+  "asset_size_bytes": 9606796,
+  "asset_count": 426,
+  "file_count": 1,
+  "pages": [
+    {
+      "url": "_v1/assets-00000.json",
+      "hash": "SHA256:b93f543ccb4b41d08a6353478b9d50c969eb742e1ad20462914711c5ef50fad9"
+    }
+  ],
+  "catalogs": [
+    {
+      "path": "RAL",
+      "uuids": [
+        "ec3352d6-0ca1-4cd8-9579-9cfdf0859a0e"
+      ],
+      "simple_name": "RAL"
+    },
+    {
+      "path": "RAL/\u0413\u043b\u044f\u043d\u0435\u0446",
+      "uuids": [
+        "8d5d3eea-af41-4230-be89-ac4d7e793fda"
+      ],
+      "simple_name": "RAL-\u0413\u043b\u044f\u043d\u0435\u0446"
+    },
+    {
+      "path": "RAL/\u041c\u0430\u0442\u043e\u0432\u044b\u0439",
+      "uuids": [
+        "82a43faa-87b9-424e-9c78-308f2c2ac723"
+      ],
+      "simple_name": "RAL-\u041c\u0430\u0442\u043e\u0432\u044b\u0439"
+    }
+  ]
+}
